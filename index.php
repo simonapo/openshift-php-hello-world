@@ -6,7 +6,9 @@
 
 <body>
 
-<?php echo "Hello World v2!"?>
+<?php
+  echo "Hello World in PHP!";
+?>
 
 </body>
 </html>
